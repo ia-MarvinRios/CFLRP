@@ -6,7 +6,7 @@
     ">
         <?php echo get_admin_page_title(); ?>
     </h1>
-    <br>
+    <hr><br>
 
     <h1>Archivo de logs del servidor:</h1>
     <br>
